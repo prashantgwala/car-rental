@@ -3,7 +3,7 @@ import Title from '../components/Title'
 import { assets, dummyCarData } from '../assets/assets'
 import CarCard from '../components/CarCard'
 
-const cars = () => {
+const Cars = () => {
 
   const [input, setInput] = useState('')
 
@@ -45,4 +45,4 @@ const cars = () => {
   )
 }
 
-export default cars
+export default Cars
