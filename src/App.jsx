@@ -13,7 +13,7 @@ import AddCar from './pages/owner/AddCar'
 import ManageCar from './pages/owner/ManageCars'
 import ManageBookings from './pages/owner/ManageBookings'
 import Login from './components/Login'
-import Cars from './pages/cars'
+import Cars from './pages/Cars'
 
 const App = () => {
         
